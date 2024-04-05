@@ -15,4 +15,4 @@
     - 🔵olist_geolocation_dataset : 브라질 지역 정보 데이터
     - 🟣olist_order_reviews_datset : 주문한 상품의 고객 리뷰 데이터 
     - 🟤olist_sellers_dataset : 판매자 정보 데이터
-    - 🔴olist_order_payments_dataset : 주문 지불 정보 데이터 셋
+    - 🔴olist_order_payments_dataset : 주문 지불 정보 데이터
